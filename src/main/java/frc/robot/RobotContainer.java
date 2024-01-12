@@ -8,8 +8,16 @@ import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.Commands;
 
 public class RobotContainer {
+
+  public static final double GEAR_RATIO = 1.5;
+  
   public RobotContainer() {
     configureBindings();
+    // hey this is a comment
+
+    // this is another
+
+    final int blah = 3;
   }
 
   private void configureBindings() {}
