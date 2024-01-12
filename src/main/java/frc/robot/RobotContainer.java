@@ -10,6 +10,10 @@ import edu.wpi.first.wpilibj2.command.Commands;
 public class RobotContainer {
 
   public static final double GEAR_RATIO = 1.5;
+
+  public static final double GEAR_RATIO2 = 1.5;
+  public static final double GEAR_RATIO3 = 1.5;
+
   
   public RobotContainer() {
     configureBindings();
