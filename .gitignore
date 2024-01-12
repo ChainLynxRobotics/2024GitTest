@@ -156,6 +156,7 @@ gradle-app.setting
 .classpath
 .project
 .settings/
+.vscode/
 bin/
 
 # IntelliJ
